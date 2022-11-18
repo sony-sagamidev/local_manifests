@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/sony/pdx217" remote="github" name="sony-sagamidev/device_sony_pdx217" revision="lineage-20" />
+  <project path="device/sony/sm8350-common" remote="github" name="sony-sagamidev/device_sony_sm8350-common" revision="lineage-20-dev" />
+  <project path="vendor/sony/pdx217" remote="github" name="sony-sagamidev/vendor_sony_pdx217" revision="lineage-20" />
+  <project path="vendor/sony/extra" remote="github" name="sony-sagamidev/vendor_sony_extra" revision="experimental" />
+  <project path="vendor/sony/sm8350-common" remote="github" name="sony-sagamidev/vendor_sony_sm8350-common" revision="lineage-20" />
+  <project path="kernel/sony/sm8350" remote="github" name="sony-sagamidev/kernel_sony_sm8350" revision="krispy" />
+  <project path="hardware/sony" remote="github" name="sony-sagamidev/hardware_sony" revision="lineage-20" />
+</manifest>
